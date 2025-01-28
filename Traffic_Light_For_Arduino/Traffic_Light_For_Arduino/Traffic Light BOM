@@ -1,0 +1,6 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"D1","GREEN","~","LED_THT:LED_D3.0mm","1",""
+"D2","YELLOW","~","LED_THT:LED_D3.0mm","1",""
+"D3","RED","~","LED_THT:LED_D3.0mm","1",""
+"J1","Conn_01x04","~","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal","1",""
+"R1,R2,R3","220R","~","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","3",""

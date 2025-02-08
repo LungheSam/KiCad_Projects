@@ -1,0 +1,28 @@
+Drill report for Touch Switch Project.kicad_pcb
+Created on 2025-02-06T17:58:15+0300
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Touch Switch Project-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.600mm  0.0236"  (2 holes)
+    T2  0.700mm  0.0276"  (6 holes)
+    T3  0.750mm  0.0295"  (3 holes)
+    T4  0.800mm  0.0315"  (10 holes)
+    T5  0.900mm  0.0354"  (2 holes)
+    T6  1.000mm  0.0394"  (2 holes)
+    T7  1.400mm  0.0551"  (4 holes)
+
+    Total plated holes count 29
+
+
+Drill file 'Touch Switch Project-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

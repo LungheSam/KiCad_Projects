@@ -1,0 +1,3 @@
+Plotted to '/home/naruto/Documents/KiCad_Projects/Custom_STM32F04/Custom_STM32F04.plt'.
+Info: Done.
+Info: Done.
